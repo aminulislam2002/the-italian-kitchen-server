@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "cuisine": "Italian",
+    "name": "Mario Batali",
+    "image_url": "https://example.com/spaghetti-carbonara.jpg",
+    "likes": 1000,
+    "contact": {
+      "email": "mario@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 25,
+    "number_of_recipes": 500,
+    "bio": "Mario Batali is an Italian-American chef, restaurateur, writer, and television personality. He is the owner of several restaurants in the United States and has published numerous cookbooks. Batali is known for his expertise in Italian cuisine and has been honored with many awards for his contributions to the culinary world."
+  },
+  {
+    "id": 2,
+    "cuisine": "Italian",
+    "name": "Massimo Bottura",
+    "image_url": "https://example.com/massimo-bottura.jpg",
+    "likes": 1500,
+    "contact": {
+      "email": "massimo@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 30,
+    "number_of_recipes": 700,
+    "bio": "Massimo Bottura is an Italian chef and owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine and has been recognized as one of the world's best chefs. Bottura has also been involved in social projects aimed at reducing food waste and promoting sustainability."
+  },
+  {
+    "id": 3,
+    "cuisine": "Italian",
+    "name": "Lidia Bastianich",
+    "image_url": "https://example.com/lidia-bastianich.jpg",
+    "likes": 1200,
+    "contact": {
+      "email": "lidia@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 40,
+    "number_of_recipes": 800,
+    "bio": "Lidia Bastianich is an Italian-American chef, author, and television personality. She is the owner of several restaurants in the United States and has written many cookbooks. Bastianich is known for her simple and authentic Italian dishes and has been honored with numerous awards for her contributions to the culinary world."
+  },
+  {
+    "id": 4,
+    "cuisine": "Italian",
+    "name": "Gennaro Contaldo",
+    "image_url": "https://example.com/gennaro-contaldo.jpg",
+    "likes": 800,
+    "contact": {
+      "email": "gennaro@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 35,
+    "number_of_recipes": 600,
+    "bio": "Gennaro Contaldo is an Italian chef and restaurateur who has been based in the United Kingdom for many years. He is known for his traditional Italian dishes and has worked in many high-profile restaurants. Contaldo has also appeared on several television shows and has written several cookbooks."
+  },
+  {
+    "id": 5,
+    "cuisine": "Italian",
+    "name": "Carlo Cracco",
+    "image_url": "https://example.com/tagliolini-al-tartufo.jpg",
+    "likes": 1800,
+    "contact": {
+      "email": "carlo@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 35,
+    "number_of_recipes": 550,
+    "bio": "Carlo Cracco is an Italian chef and restaurateur. He is the owner and chef of several restaurants in Italy and has authored several cookbooks. Cracco is known for his innovative approach to Italian cuisine and has won numerous awards for his contributions to the culinary world."
+  },
+  {
+    "id": 6,
+    "cuisine": "Italian",
+    "name": "Giada De Laurentiis",
+    "image_url": "https://example.com/pasta-primavera.jpg",
+    "likes": 750,
+    "contact": {
+      "email": "giada@example.com",
+      "phone": "555-123-4567"
+    },
+    "years_of_experience": 20,
+    "number_of_recipes": 300,
+    "bio": "Giada De Laurentiis is an Italian-American chef, author, and television personality. She is the host of several cooking shows on the Food Network and has published several cookbooks. De Laurentiis is known for her Italian cuisine, particularly her pasta dishes, and has won numerous awards for her work."
+  },
+  {
+    "id": 7,
+    "name": "Fabio Viviani",
+    "image_url": "https://example.com/risotto.jpg",
+    "likes": 500,
+    "contact": {
+      "email": "fabio@example.com",
+      "phone": "555-987-6543"
+    },
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "bio": "Fabio Viviani is an Italian chef, restaurateur, and television personality. He has appeared on several cooking shows, including Top Chef and Cutthroat Kitchen. Viviani is known for his Italian cuisine and has published several cookbooks."
+  },
+  {
+    "id": 8,
+    "name": "Lidia Matticchio Bastianich",
+    "image_url": "https://example.com/gnocchi.jpg",
+    "likes": 900,
+    "contact": {
+      "email": "lidia@example.com",
+      "phone": "555-555-5555"
+    },
+    "years_of_experience": 30,
+    "number_of_recipes": 400,
+    "bio": "Lidia Matticchio Bastianich is an Italian-American chef, restaurateur, and television personality. She is the owner of several restaurants in the United States and has published numerous cookbooks. Bastianich is known for her expertise in Italian cuisine and has won several James Beard Foundation Awards for her work."
+  },
+  {
+    "id": 9,
+    "name": "Enrico Bartolini",
+    "image_url": "https://example.com/veal-milanese.jpg",
+    "likes": 450,
+    "contact": {
+      "email": "enrico@example.com",
+      "phone": "555-777-8888"
+    },
+    "years_of_experience": 18,
+    "number_of_recipes": 250,
+    "bio": "Enrico Bartolini is an Italian chef who has been awarded seven Michelin stars for his restaurants. He is known for his contemporary Italian cuisine and has appeared on several cooking shows in Italy and around the world."
+  },
+  {
+    "id": 10,
+    "name": "Aminul Islam",
+    "image_url": "https://example.com/veal-milanese.jpg",
+    "likes": 450,
+    "contact": {
+      "email": "aminul@example.com",
+      "phone": "555-000-8822"
+    },
+    "years_of_experience": 13,
+    "number_of_recipes": 250,
+    "bio": "Aminul Islam is an Italian chef who has been awarded seven Michelin stars for his restaurants. He is known for his contemporary Italian cuisine and has appeared on several cooking shows in Italy and around the world."
+  }
+]
