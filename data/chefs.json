@@ -3,7 +3,7 @@
     "id": 1,
     "cuisine": "Italian",
     "name": "Mario Batali",
-    "image_url": "https://example.com/spaghetti-carbonara.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 1000,
     "contact": {
       "email": "mario@example.com",
@@ -17,7 +17,7 @@
     "id": 2,
     "cuisine": "Italian",
     "name": "Massimo Bottura",
-    "image_url": "https://example.com/massimo-bottura.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 1500,
     "contact": {
       "email": "massimo@example.com",
@@ -31,7 +31,7 @@
     "id": 3,
     "cuisine": "Italian",
     "name": "Lidia Bastianich",
-    "image_url": "https://example.com/lidia-bastianich.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 1200,
     "contact": {
       "email": "lidia@example.com",
@@ -45,7 +45,7 @@
     "id": 4,
     "cuisine": "Italian",
     "name": "Gennaro Contaldo",
-    "image_url": "https://example.com/gennaro-contaldo.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 800,
     "contact": {
       "email": "gennaro@example.com",
@@ -59,7 +59,7 @@
     "id": 5,
     "cuisine": "Italian",
     "name": "Carlo Cracco",
-    "image_url": "https://example.com/tagliolini-al-tartufo.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 1800,
     "contact": {
       "email": "carlo@example.com",
@@ -73,7 +73,7 @@
     "id": 6,
     "cuisine": "Italian",
     "name": "Giada De Laurentiis",
-    "image_url": "https://example.com/pasta-primavera.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 750,
     "contact": {
       "email": "giada@example.com",
@@ -86,7 +86,7 @@
   {
     "id": 7,
     "name": "Fabio Viviani",
-    "image_url": "https://example.com/risotto.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 500,
     "contact": {
       "email": "fabio@example.com",
@@ -99,7 +99,7 @@
   {
     "id": 8,
     "name": "Lidia Matticchio Bastianich",
-    "image_url": "https://example.com/gnocchi.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 900,
     "contact": {
       "email": "lidia@example.com",
@@ -112,7 +112,7 @@
   {
     "id": 9,
     "name": "Enrico Bartolini",
-    "image_url": "https://example.com/veal-milanese.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 450,
     "contact": {
       "email": "enrico@example.com",
@@ -125,7 +125,7 @@
   {
     "id": 10,
     "name": "Aminul Islam",
-    "image_url": "https://example.com/veal-milanese.jpg",
+    "image_url": "https://img.freepik.com/free-photo/smiling-doctor-with-strethoscope-isolated-grey_651396-974.jpg?w=740&t=st=1682984612~exp=1682985212~hmac=98daca17054228a44388b6f900ab1842607b518b0eedb6ac73ecf96c92ec30c0",
     "likes": 450,
     "contact": {
       "email": "aminul@example.com",
