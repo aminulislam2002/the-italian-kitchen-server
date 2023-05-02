@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "pancetta",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "eggs",
+        "quantity": "4"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1 cup, freshly grated"
+      },
+      {
+        "name": "Pecorino Romano cheese",
+        "quantity": "1/2 cup, freshly grated"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil.",
+      "Cook the spaghetti until al dente.",
+      "Meanwhile, in a large skillet, cook the pancetta over medium heat until crisp.",
+      "In a large bowl, whisk together the eggs, Parmesan, and Pecorino.",
+      "When the pasta is done, reserve 1 cup of the pasta cooking water.",
+      "Drain the pasta and immediately add it to the skillet with the pancetta.",
+      "Remove the skillet from the heat and let it cool for 1-2 minutes.",
+      "Add the egg and cheese mixture to the skillet and toss until the pasta is coated.",
+      "If the pasta seems dry, add a little of the reserved cooking water.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "as needed"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F.",
+      "Stretch the pizza dough out to a 12-inch circle and place it on a baking sheet or pizza stone.",
+      "Spread the tomato sauce evenly over the dough, leaving a 1-inch border around the edge.",
+      "Slice the mozzarella and arrange it on top of the sauce.",
+      "Drizzle with olive oil and season with salt and pepper to taste.",
+      "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lasagna",
+    "ingredients": [
+      {
+        "name": "lasagna noodles",
+        "quantity": "12-15"
+      },
+      {
+        "name": "ground beef",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "Italian sausage",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves, minced"
+      },
+      {
+        "name": "canned diced tomatoes",
+        "quantity": "28 ounces"
+      },
+      {
+        "name": "tomato paste",
+        "quantity": "6 ounces"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "ricotta cheese",
+        "quantity": "15 ounces"
+      },
+      {
+        "name": "mozzarella cheese",
+        "quantity": "2 cups, shredded"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1/2 cup, grated"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Cook the lasagna noodles according to package instructions, and set aside.",
+      "In a large skillet over medium-high heat, cook the ground beef, sausage, onion, and garlic until browned.",
+      "Drain any excess fat, then add the diced tomatoes, tomato paste, and fresh basil to the skillet.",
+      "Simmer for 10-15 minutes, or until the sauce has thickened.",
+      "In a separate bowl, mix together the ricotta cheese, mozzarella cheese, Parmesan cheese, eggs, salt, and pepper.",
+      "To assemble the lasagna, spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+      "Add a layer of lasagna noodles, then a layer of the cheese mixture.",
+      "Repeat layers until all ingredients are used up, ending with a layer of meat sauce on top.",
+      "Cover with aluminum foil and bake for 25 minutes.",
+      "Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.",
+      "Let cool for 10 minutes before serving."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Roasted Brussel Sprouts with Balsamic Glaze",
+    "ingredients": [
+      {
+        "name": "Brussel sprouts",
+        "quantity": "1 lb"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "1/4 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Trim the ends off the Brussel sprouts and remove any yellow leaves.",
+      "Cut the sprouts in half and place them in a bowl.",
+      "In a separate bowl, whisk together the olive oil, balsamic vinegar, honey, salt, and pepper.",
+      "Pour the mixture over the Brussel sprouts and toss to coat.",
+      "Spread the Brussel sprouts out on a baking sheet in a single layer.",
+      "Roast for 20-25 minutes, stirring halfway through, or until the sprouts are tender and caramelized.",
+      "Serve hot and enjoy!"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "quantity": "2 1/4 cups"
+      },
+      {
+        "name": "baking soda",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "unsalted butter, at room temperature",
+        "quantity": "1 cup (2 sticks)"
+      },
+      {
+        "name": "granulated sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "name": "brown sugar",
+        "quantity": "3/4 cup, packed"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "large eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "semisweet chocolate chips",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F.",
+      "In a medium bowl, whisk together the flour, baking soda, and salt.",
+      "In a large bowl, beat the butter, granulated sugar, brown sugar, and vanilla extract together until creamy.",
+      "Add the eggs one at a time, beating well after each addition.",
+      "Gradually beat in the flour mixture.",
+      "Stir in the chocolate chips.",
+      "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
+      "Bake for 10-12 minutes, or until golden brown.",
+      "Cool on the baking sheets for 2 minutes before transferring to wire racks to cool completely."
+    ]
+  }
+]
